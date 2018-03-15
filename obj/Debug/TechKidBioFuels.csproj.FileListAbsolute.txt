@@ -1,0 +1,36 @@
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.exe.config
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.exe
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.pdb
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.CustomerMaster.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Login.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.MainTerminal.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Properties.Resources.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesCustomerNamewise.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesDatewise.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesInvoicewise.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Sales.resources
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.csproj.GenerateResource.Cache
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\RdlCompile.cache
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\RdlCompile.compiled
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.exe
+C:\Users\NIKHIL PATEL\documents\visual studio 2012\Projects\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.pdb
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.exe.config
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.exe
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\bin\Debug\TechKidBioFuels.pdb
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.CustomerMaster.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Login.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.MainTerminal.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Properties.Resources.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesCustomerNamewise.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesDatewise.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.RptSalesInvoicewise.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.Sales.resources
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.csproj.GenerateResource.Cache
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\RdlCompile.cache
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\RdlCompile.compiled
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.exe
+D:\NIKHIL\Study\FINAL PRODUCTS\BIOFUELS\PROJECT\TechKidBioFuels\TechKidBioFuels\obj\Debug\TechKidBioFuels.pdb
